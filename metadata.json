@@ -1,0 +1,6 @@
+{
+  "name": "AlbeeTech",
+  "description": "Premium tech portfolio and journal by Very Setiawan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
